@@ -1,7 +1,8 @@
 
 # raccroche-v2
 
-This repository contains the code for Module 1 and 2 of the RACCROCHE pipeline.
+This repository contains the imported code for Module 1 and 2 of the RACCROCHE pipeline.
+Original code can be found [here](https://git.cs.usask.ca/nma904/module1_2)
 
 
 ## Overview
